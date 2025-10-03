@@ -1,0 +1,2 @@
+# iDrop-for-Evaluating-CAR-T-Cell-Mediated-OTOT-Toxicity
+To assess the risk of OTOT toxicity from allogeneic and autologous HER2_T therapy at single-cell resolution, we performed scRNA-seq on colon iDrops derived from hPSC after 24 hours of co-culture with T cells. This approach enabled precise delineation of antigen-specific T cell activation and cytotoxicity, providing clinically relevant insights.
